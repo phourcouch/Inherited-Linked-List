@@ -1,0 +1,42 @@
+Script started on Tue 17 Oct 2023 01:49:23 PM PDT
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW3new[?1034h[le331@empress forHW3new]$ g++ HW3P2client.cpp slist.cpp llist.cpp
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW3new[le331@empress forHW3new]$ g++ HW3P2client.cpp slist.cpp llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexitg++ HW3P1client.cpp llist.cppex[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clogout[scd forHW3nlscd HWProgramlscd CS311Proglscd cs311filels[ogovi llist.c[5P./a.out
+... in llist constructor...
+slist constructor: 
+Step 1 addFront
+Step 2 addRear
+Step 3
+[ 4 6 7 8]
+Step 4
+Found 6 in location 2
+Step 5 replace 6
+Step 6
+[ 4 0 7 8]
+Step 7
+Found 8 in location 4
+Step 8 replace 8
+Step 9
+[ 4 0 7 2]
+Step 10
+5 not found 
+Step 11 replace 7
+ERROR: Bad position was given
+.... in llist destructor...
+---- First Part testing done ----- 
+... in llist constructor...
+slist constructor: 
+... in llist constructor...
+slist constructor: 
+true
+false
+false
+true
+false
+false
+false
+.... in llist destructor...
+.... in llist destructor...
+]0;le331@empress:~/cs311filess/CS311Progs/HWPrograms/forHW3new[le331@empress forHW3new]$ exit
+exit
+
+Script done on Tue 17 Oct 2023 01:49:48 PM PDT
